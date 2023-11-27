@@ -143,8 +143,8 @@ Below down you can see the data model of this project.
 
 <br>
 
-## DAX Measures
-DAX measures were created to enhance the formation of charts and cards for visualization. DAX measures for this project are as follow: 
+## Measures Created
+Measures were created to enhance the formation of charts and cards for visualization. Measures for this project are as follow: 
  <br>
  <br>
 
@@ -207,7 +207,7 @@ CALCULATE(
 
 
 ## Analysis & Visualization
-After the creation of the DAX measures, the dashboard was compeleted. First page of the dashboard provides an overview of the company's sales. On the second page, you will find a detailed breakdown of sales with customer-specific insights, while the third page delves into product-spesific sales details.
+After the creation of the measures, the dashboard was compeleted. First page of the dashboard provides an overview of the company's sales. On the second page, you will find a detailed breakdown of sales with customer-specific insights, while the third page delves into product-spesific sales details.
 <br>
 <br>
 
